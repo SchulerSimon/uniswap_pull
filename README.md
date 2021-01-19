@@ -4,9 +4,13 @@ To start collecting, just start a chronjob with `python rate_puller.py`
 
 ## Requirements: 
 `python3`
+
 `pip3`
+
 `web3`
+
 infura.io account
+
 
 ## run:
 ```bash
